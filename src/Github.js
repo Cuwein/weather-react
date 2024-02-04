@@ -14,7 +14,7 @@ export default function Github() {
         </a>
         &nbsp;by Iortyom Queen Torkwase&nbsp;
         <a
-          href="https://weather-react-svamy3sef-iortyom-queen-torkwases-projects.vercel.app/"
+          href="https://weather-react-fdb3.vercel.app/"
           target="_blank"
           rel="noreferrer"
         >
