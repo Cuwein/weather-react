@@ -6,19 +6,19 @@ export default function Github() {
     <div className="Github">
       <p id="github-link">
         <a
-          href="https://github.com/mulurebrenda/react-weather-app"
+          href="https://github.com/Cuwein/weather-react"
           target="_blank"
           rel="noreferrer"
         >
           Open-source code
         </a>
-        &nbsp;by Brenda Mulure&nbsp;
+        &nbsp;by Iortyom Queen Torkwase&nbsp;
         <a
-          href="https://app.netlify.com/sites/react-weather-app-bm/configuration/general"
+          href="https://weather-react-svamy3sef-iortyom-queen-torkwases-projects.vercel.app/"
           target="_blank"
           rel="noreferrer"
         >
-          hosted on Netlify
+          hosted on Vercel
         </a>
       </p>
     </div>
